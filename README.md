@@ -86,5 +86,5 @@ I’m a passionate <b>frontend developer</b> from Greece.<br><br>
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karakasidis&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karakasidis&show_icons=true&theme=radical)         ![GitHub Streak](https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false)
 
