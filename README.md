@@ -89,5 +89,5 @@ I’m a passionate <b>frontend developer</b> from Greece.<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ioannis-Karakasidis&show_icons=true&theme=radical" alt="GitHub Stats" height="200" width="350"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false" alt="GitHub Streak" height="200" width="350"/>
+  <img src="https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false" alt="GitHub Streak" height="200" width="380"/>
 </div>
