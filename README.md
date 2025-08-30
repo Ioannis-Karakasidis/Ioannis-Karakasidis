@@ -5,14 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/ioannis karakasidis" target="_blank">
+  <a href="https://linkedin.com/in/Ioannis-karakasidis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://ioanniskarakasidis.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
   <a href="mailto:gianniskarakasidhs@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+   <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
 
@@ -86,7 +86,5 @@ I’m a passionate <b>frontend developer</b> from Greece.<br><br>
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karakasidis&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karakasidis&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com?user=Ioannis-Karakasidis&theme=radical&hide_border=false)
 
